@@ -21,9 +21,19 @@
 - 📄 Know about my experiences [hicham_mourtaj](hicham_mourtaj)
 
 <h2>Connect with me:</h2>
+<table >
+<tr >
+<th style="width:200 px;">
 <h4>Social Media</h4>
-<row>
-<col>
+</th>
+
+<th style="width:200 px;">
+<h4>Coding Plateforms</h4>
+</th>
+
+</tr>
+<tr>
+<td>
 <ul>
  <li>
  <a href="https://twitter.com/hichammourtaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hichammourtaj" height="30" width="40" /></a>
@@ -41,10 +51,8 @@
  <a href="https://linkedin.com/in/hicham mourtaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hicham mourtaj" height="30" width="40" /></a>
  </li>
 </ul>
-</col>
-<br>
-<h4>Coding Plateforms</h4>
-<col>
+</td>
+<td>
  <ul>
   <li>
  <a href="https://kaggle.com/hicham mourtaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hicham mourtaj" height="30" width="40" /></a>
@@ -57,9 +65,12 @@
   <li>
 <a href="https://www.leetcode.com/hicham mourtaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hicham mourtaj" height="30" width="40" /></a>
    </li>
+ 
 </ul>
-<col>
-</row>
+</td>
+</tr>
+</table>
+
 
  
 
