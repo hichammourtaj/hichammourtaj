@@ -1,7 +1,4 @@
-<h1 align="center">
-
- 
-</h1>
+<h1 align="center">HICHAM MOURTAJ</h1>
 <h3 align="center">I'm a Software Engineer and Data Scientist</h3>
 
 
