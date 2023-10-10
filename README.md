@@ -1,3 +1,4 @@
+<img src="https://isp.page/news/wp-content/uploads/2023/09/GitHub-Expands-Availability-of-Copilot-Chat-Tool-for-Coding-Assistance_650b973b53608.jpg">
 <h1 align="center">HICHAM MOURTAJ</h1>
 <h3 align="center">I'm a Software Engineer and Data Scientist</h3>
 
